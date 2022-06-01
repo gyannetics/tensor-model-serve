@@ -1,1 +1,1 @@
-# tensor-model-serve
+# tensorflow-model-serve
